@@ -15,7 +15,7 @@ public class SuejinApplication {
 
 	@RequestMapping("/")
 	String home() {
-		return "Hello World!!";
+		return "Hello World!! This is new version 23/02/27";
 	}
 
 }
